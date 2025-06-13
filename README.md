@@ -12,8 +12,6 @@ We used TensorFlow Keras alongside a WindowGenerator class we customized to our 
 
 Given the trained LSTM (which could always be trained for longer with better computational resources than the 3060 that we used as students), this project could be extended to consider the predictions made by the model and then use them in a feedback loop to recommend optimizations. That is, for urban planning or for general improved planning by individual members of the community, optimization algorithms could be implemented that take predicted traffic conditions as input and then suggest changes to traffic signals, lanes, signage, or other interventions and environmental conditions. The goal of this would be to minimize congestions over time based on actionable and dynamic insight.
 
-Given that the mod
-
 ## Resources
 
 * [Dataset](https://www.research-collection.ethz.ch/handle/20.500.11850/437802)
