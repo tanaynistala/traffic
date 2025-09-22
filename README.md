@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this work, we address the issue of traffic congestion in urban environments. To do so, we collect publicaly available data from cited datasets below, preprocess and clean the data, and then cluster the data by city before passing it as input to a neural network which learns to predict the congestion based on various features. The chosen neural network is a Long Short Term (LSTM) Network meant to encapsulate the temporal nature of traffic patterns in addition to the other features. The inference goal is to be able to predict future traffic conditions based on the state of the system in advance. Furthermore, to analyze the performance of the LSTM network, we evaluated the disparity between predicted and actual.
+In this work, we address the issue of traffic congestion in urban environments. To do so, we collect publically available data from cited datasets below, preprocess and clean the data, and then cluster the data by city before passing it as input to a neural network which learns to predict the congestion based on various features. The chosen neural network is a Long Short Term (LSTM) Network meant to encapsulate the temporal nature of traffic patterns in addition to the other features. The inference goal is to be able to predict future traffic conditions based on the state of the system in advance. Furthermore, to analyze the performance of the LSTM network, we evaluated the disparity between predicted and actual.
 
 ## Current Implementation
 
